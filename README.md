@@ -1,5 +1,5 @@
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Hey+there!+I'm+Keith;Aspiring+Back-End+Engineer;Java+%7C+Python+%7C+Linux;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&lines=Continuous+Learner)](https://git.io/typing-svg)
 
 # 👋 Hey, I'm Keith
 
