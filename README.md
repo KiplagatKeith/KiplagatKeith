@@ -49,17 +49,15 @@
 
 ## 📊 GitHub Stats  
 
-# ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiplagatKeith&show_icons=true&theme=radical)  
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiplagatKeith&layout=compact&theme=radical)  
-# ![GitHub Streak](https://streak-stats.demolab.com?user=KiplagatKeith&theme=radical&border_radius=5)  
+#![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiplagatKeith&show_icons=true&theme=radical)  
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiplagatKeith&layout=compact&theme=radical)  
+#![GitHub Streak](https://streak-stats.demolab.com?user=KiplagatKeith&theme=radical&border_radius=5)  
 
 ---
 
 ## 🌍 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-845801291)  
-[![Email Proton](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kiplagatkeith@proton.me)  
-[![Email Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kiplagatkeith@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-845801291), [![Email Proton](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kiplagatkeith@proton.me), [![Email Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kiplagatkeith@outlook.com)  
 
 ---
 
