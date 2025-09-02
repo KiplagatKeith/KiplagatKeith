@@ -46,7 +46,7 @@
 > 📸 Each repo includes setup instructions & documentation.  
 
 ---
-<!-- -->
+<!-- 
 ## 📊 GitHub Stats  
 
 ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiplagatKeith&show_icons=true&theme=radical)  
